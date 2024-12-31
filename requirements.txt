@@ -1,0 +1,9 @@
+flask
+feedparser
+requests
+readability-lxml
+langchain
+langchain-community
+beautifulsoup4
+gunicorn
+openai
